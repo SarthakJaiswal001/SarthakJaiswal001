@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Jaiswal</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e473dza730so44u14w02ish5zzfyq1hiofoiak5yeen&rid=200.webp&ct=g">
+<img align="center" alt="coding" width="100%" src="https://media1.giphy.com/media/zXmbOaTpbY6mA/100.webp?cid=ecf05e474uhkrwg9fdj455j49hl3sutiznyp5vsl38rl81t9&rid=100.webp&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakjaiswal001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakjaiswal001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakjaiswal001" alt="sarthakjaiswal001" /></a> </p>
