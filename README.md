@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sarthakj918@gmail.com**
 
-- 📝 **My Resume**  (https://drive.google.com/file/d/11fdKvboF0Zpm2t508gyVo7uU37rdym3J/view?usp=sharing)
+- 📝 **My Resume**  https://drive.google.com/file/d/11fdKvboF0Zpm2t508gyVo7uU37rdym3J/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
